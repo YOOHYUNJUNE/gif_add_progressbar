@@ -9,4 +9,5 @@
 7. new_gif 폴더에 잘 생성되었는지 확인합니다.
 
 ## 예시
-![리뷰_with_progress](https://github.com/user-attachments/assets/d8b839e2-186e-4867-b78a-06d3f7bf55b7)
+![레시피 목록, 상세](https://github.com/user-attachments/assets/ddc26f17-b64c-40a6-b268-94e1c00bed72)
+
